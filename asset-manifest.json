@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/usmanrahman-pages/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/usmanrahman-pages/static/js/main.132c1bab.chunk.js",
-    "main.js.map": "/usmanrahman-pages/static/js/main.132c1bab.chunk.js.map",
+    "main.js": "/usmanrahman-pages/static/js/main.21b238e6.chunk.js",
+    "main.js.map": "/usmanrahman-pages/static/js/main.21b238e6.chunk.js.map",
     "runtime-main.js": "/usmanrahman-pages/static/js/runtime-main.476ed4fb.js",
     "runtime-main.js.map": "/usmanrahman-pages/static/js/runtime-main.476ed4fb.js.map",
     "static/js/2.7111d379.chunk.js": "/usmanrahman-pages/static/js/2.7111d379.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.476ed4fb.js",
     "static/js/2.7111d379.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.132c1bab.chunk.js"
+    "static/js/main.21b238e6.chunk.js"
   ]
 }
