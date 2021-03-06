@@ -1,15 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect } from 'react';
+
+import './css/App.css';
+
+import WholePage from './pages/WholePage/WholePage.js';
 
 function App() {
   return (
+
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-      </header>
+      <WholePage />
     </div>
   );
 }
