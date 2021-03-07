@@ -1,0 +1,37 @@
+#nav {
+    position: sticky;
+    top: 0;
+}
+
+#home {
+    margin-bottom: 1000px;
+}
+
+#aboutme {
+    margin-bottom: 1000px;
+}
+
+#education {
+    margin-bottom: 1000px;
+}
+
+#contact {
+    margin-bottom: 100px;
+}
+
+/* .boxes{
+    text-align: center;
+    margin: 20px;
+    margin-top: 150px;
+    background-color: rgb(198, 177, 198);
+    overflow: hidden;
+    height: 200px;
+    max-height: 35vh;
+    box-shadow: 0px 12px 18px -6px, rgba(0, 0, 0, 0.3);
+    border-radius: 10px 10px 10px 10px;
+}
+
+.grids{
+    max-width: 50%;
+    margin: auto;
+} */
